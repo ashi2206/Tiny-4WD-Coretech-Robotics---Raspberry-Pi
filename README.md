@@ -27,5 +27,7 @@ Installation and Usage
    ```bash
    python robot_controller.py
    ```
-   
+4. Controller Instructions:
+   Use the left joystick to control the robot's movement.
+   Press the HOME button to stop the robot and exit the script.
 
