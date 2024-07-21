@@ -4,8 +4,8 @@ This project controls a robot using a joystick. It interfaces with the Explorer 
 
 Requirements
 
-- Explorer HAT library (for motor control)
-- ApproxEng Input library (for joystick control)
+- Explorer HAT library 
+- ApproxEng Input library 
 
 Installation and Usage
 
