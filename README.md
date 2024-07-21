@@ -5,7 +5,10 @@ This project controls a robot using a joystick. It interfaces with the Explorer 
 Requirements
 
 - Explorer HAT library 
-- ApproxEng Input library 
+- ApproxEng Input library
+- Controller (PS3, PS4 or Equiv)
+- Tiny 4WD CoreTech Robotics kit
+- Rapberry Pi Zero WH
 
 Installation and Usage
 
